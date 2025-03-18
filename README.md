@@ -1,5 +1,5 @@
 # Overview
-**Elven Bloom** is a theme for Victoria 3.
+**Aetherglow** is a theme for Victoria 3.
 
 This theme was developed for the mod **Manaflow: Ankaris Arrival** and is part of it.
 
